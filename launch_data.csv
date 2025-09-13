@@ -1,31 +1,61 @@
-company,details_url,total_payload,fairing_diameter,fairing_height,rocket_height,price,volume,rocket,payload,date,location
-SpaceX,https://nextspaceflight.com/launches/details/6907,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , Nusantara Lima,2025/09/11,SLC-40 Cape Canaveral SFS Florida USA
-Roscosmos,https://nextspaceflight.com/launches/details/7710,7500,4.11,15.59,51.38,17.42,750.6,Soyuz 2.1a , Progress MS-32,2025/09/11,Site 31/6 Baikonur Cosmodrome Kazakhstan
-SpaceX,https://nextspaceflight.com/launches/details/7219,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , Tranche 1 Transport Layer B,2025/09/10,SLC-4E Vandenberg SFB California USA
-CASC,https://nextspaceflight.com/launches/details/7943,19000,4.2,12.4,58.0,56.2,860.82,Long March 7A , Yaogan 45,2025/09/8,LC-201 Wenchang Space Launch Site China
-Chinarocket,https://nextspaceflight.com/launches/details/7942,1500,3.35,10.7,31.0,56.2,304.68,Jielong 3 , Geely Constellation Group 05,2025/09/8,Oriental Spaceport Launch Ship (Area 1) China Coastal Waters
-SpaceX,https://nextspaceflight.com/launches/details/7935,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , Starlink Group 17-9,2025/09/6,SLC-4E Vandenberg SFB California USA
-CASC,https://nextspaceflight.com/launches/details/7940,5000,4.2,5.7,50.0,56.2,719.04,Long March 6A , Yaogan 40 Group 03,2025/09/6,LC-9A Taiyuan Satellite Launch Center China
-SpaceX,https://nextspaceflight.com/launches/details/7934,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , Starlink Group 10-57,2025/09/5,LC-39A Kennedy Space Center Florida USA
-Galactic Energy,https://nextspaceflight.com/launches/details/7939,400,1.4,2.5,19.0,4.38,30.53,Ceres 1 , 3 satellites,2025/09/5,Site 95A Jiuquan Satellite Launch Center China
-CASC,https://nextspaceflight.com/launches/details/7938,11000,4.2,9.78,55.64,20.0,816.03,Long March 3C/YZ-1 , Shiyan 29,2025/09/4,LC-2 Xichang Satellite Launch Center China
-SpaceX,https://nextspaceflight.com/launches/details/7930,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , Starlink Group 10-22,2025/09/3,SLC-40 Cape Canaveral SFS Florida USA
-SpaceX,https://nextspaceflight.com/launches/details/7931,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , Starlink Group 17-8,2025/09/2,SLC-4E Vandenberg SFB California USA
-IAI,https://nextspaceflight.com/launches/details/7937,350,1.35,4.37,22.0,56.2,33.58,Shavit 2 , Ofek-19,2025/09/2,Pad 1 Palmachim Airbase Israel
-SpaceX,https://nextspaceflight.com/launches/details/7926,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , Starlink Group 10-14,2025/08/31,SLC-40 Cape Canaveral SFS Florida USA
-SpaceX,https://nextspaceflight.com/launches/details/7917,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , Starlink Group 17-7,2025/08/30,SLC-4E Vandenberg SFB California USA
-SpaceX,https://nextspaceflight.com/launches/details/7913,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , Starlink Group 10-11,2025/08/28,LC-39A Kennedy Space Center Florida USA
-SpaceX,https://nextspaceflight.com/launches/details/7927,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , Starlink Group 10-56,2025/08/27,SLC-40 Cape Canaveral SFS Florida USA
-SpaceX,https://nextspaceflight.com/launches/details/7885,35000,9.0,10.7,123.1,56.2,8058.19,Starship-Super Heavy v2 , Starship Flight 10,2025/08/26,Pad 1 Starbase Texas USA
-SpaceX,https://nextspaceflight.com/launches/details/969,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , NAOS (LUXEOSys) & Others,2025/08/26,SLC-4E Vandenberg SFB California USA
-CASC,https://nextspaceflight.com/launches/details/7925,13300,5.2,10.7,50.54,56.2,1149.07,Long March 8A , SatNet LEO Group 10,2025/08/25,Commercial LC-1 Wenchang Space Launch Site China
-SpaceX,https://nextspaceflight.com/launches/details/6915,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , CRS SpX-33,2025/08/24,SLC-40 Cape Canaveral SFS Florida USA
-Rocket Lab,https://nextspaceflight.com/launches/details/7883,320,1.2,4.05,18.0,7.5,21.88,Electron/Curie ," Live, Laugh, Launch",2025/08/23,Rocket Lab LC-1A Māhia Peninsula New Zealand
-SpaceX,https://nextspaceflight.com/launches/details/7915,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , Starlink Group 17-6,2025/08/22,SLC-4E Vandenberg SFB California USA
-SpaceX,https://nextspaceflight.com/launches/details/6149,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , USSF-36 (OTV-8),2025/08/21,LC-39A Kennedy Space Center Florida USA
-VKS RF,https://nextspaceflight.com/launches/details/7923,3800,3.0,2.9,42.7,56.2,308.66,Angara 1.2 , Cosmos 2590-2593 (?),2025/08/21,Site 35/1 Plesetsk Cosmodrome Russia
-Roscosmos,https://nextspaceflight.com/launches/details/4360,8020,4.11,8.36,44.08,20.0,621.78,Soyuz 2.1b , Bion-M n°2,2025/08/20,Site 31/6 Baikonur Cosmodrome Kazakhstan
-CAS Space,https://nextspaceflight.com/launches/details/7920,3500,3.35,10.7,31.0,56.2,304.68,Kinetica 1 , 7 satellites,2025/08/19,Site 130 Jiuquan Satellite Launch Center China
-SpaceX,https://nextspaceflight.com/launches/details/7914,31100,5.2,13.0,70.0,69.75,1578.63,Falcon 9 Block 5 , Starlink Group 17-5,2025/08/18,SLC-4E Vandenberg SFB California USA
-CASC,https://nextspaceflight.com/launches/details/7921,5000,4.2,5.7,50.0,56.2,719.04,Long March 6A , SatNet LEO Group 09,2025/08/17,LC-9A Taiyuan Satellite Launch Center China
-CASC,https://nextspaceflight.com/launches/details/7922,5700,3.8,11.74,46.97,64.68,577.08,Long March 4C , Shiyan 28 B-02,2025/08/17,LC-3 Xichang Satellite Launch Center China
+company,details_url,total_payload,fairing_diameter,fairing_height,rocket_height,price,volume,success,rocket,payload,date,location
+SpaceX,https://nextspaceflight.com/launches/details/6907,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Nusantara Lima,2025/09/11,SLC-40 Cape Canaveral SFS Florida USA
+Roscosmos,https://nextspaceflight.com/launches/details/7710,7500,4.11,15.59,51.38,17.42,750.6,Success,Soyuz 2.1a , Progress MS-32,2025/09/11,Site 31/6 Baikonur Cosmodrome Kazakhstan
+SpaceX,https://nextspaceflight.com/launches/details/7219,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Tranche 1 Transport Layer B,2025/09/10,SLC-4E Vandenberg SFB California USA
+CASC,https://nextspaceflight.com/launches/details/7943,19000,4.2,12.4,58.0,58.25,860.82,Success,Long March 7A , Yaogan 45,2025/09/8,LC-201 Wenchang Space Launch Site China
+Chinarocket,https://nextspaceflight.com/launches/details/7942,1500,3.35,10.96,31.0,58.25,305.44,Success,Jielong 3 , Geely Constellation Group 05,2025/09/8,Oriental Spaceport Launch Ship (Area 1) China Coastal Waters
+SpaceX,https://nextspaceflight.com/launches/details/7935,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 17-9,2025/09/6,SLC-4E Vandenberg SFB California USA
+CASC,https://nextspaceflight.com/launches/details/7940,5000,4.2,5.7,50.0,58.25,719.04,Success,Long March 6A , Yaogan 40 Group 03,2025/09/6,LC-9A Taiyuan Satellite Launch Center China
+SpaceX,https://nextspaceflight.com/launches/details/7934,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 10-57,2025/09/5,LC-39A Kennedy Space Center Florida USA
+Galactic Energy,https://nextspaceflight.com/launches/details/7939,400,1.4,2.5,19.0,4.38,30.53,Success,Ceres 1 , 3 satellites,2025/09/5,Site 95A Jiuquan Satellite Launch Center China
+CASC,https://nextspaceflight.com/launches/details/7938,11000,4.2,9.78,55.64,20.0,816.03,Success,Long March 3C/YZ-1 , Shiyan 29,2025/09/4,LC-2 Xichang Satellite Launch Center China
+SpaceX,https://nextspaceflight.com/launches/details/7930,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 10-22,2025/09/3,SLC-40 Cape Canaveral SFS Florida USA
+SpaceX,https://nextspaceflight.com/launches/details/7931,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 17-8,2025/09/2,SLC-4E Vandenberg SFB California USA
+IAI,https://nextspaceflight.com/launches/details/7937,350,1.35,4.37,22.0,58.25,33.58,Success,Shavit 2 , Ofek-19,2025/09/2,Pad 1 Palmachim Airbase Israel
+SpaceX,https://nextspaceflight.com/launches/details/7926,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 10-14,2025/08/31,SLC-40 Cape Canaveral SFS Florida USA
+SpaceX,https://nextspaceflight.com/launches/details/7917,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 17-7,2025/08/30,SLC-4E Vandenberg SFB California USA
+SpaceX,https://nextspaceflight.com/launches/details/7913,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 10-11,2025/08/28,LC-39A Kennedy Space Center Florida USA
+SpaceX,https://nextspaceflight.com/launches/details/7927,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 10-56,2025/08/27,SLC-40 Cape Canaveral SFS Florida USA
+SpaceX,https://nextspaceflight.com/launches/details/7885,35000,9.0,10.96,123.1,58.25,8063.7,Success,Starship-Super Heavy v2 , Starship Flight 10,2025/08/26,Pad 1 Starbase Texas USA
+SpaceX,https://nextspaceflight.com/launches/details/969,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , NAOS (LUXEOSys) & Others,2025/08/26,SLC-4E Vandenberg SFB California USA
+CASC,https://nextspaceflight.com/launches/details/7925,13300,5.2,10.96,50.54,58.25,1150.91,Success,Long March 8A , SatNet LEO Group 10,2025/08/25,Commercial LC-1 Wenchang Space Launch Site China
+SpaceX,https://nextspaceflight.com/launches/details/6915,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , CRS SpX-33,2025/08/24,SLC-40 Cape Canaveral SFS Florida USA
+Rocket Lab,https://nextspaceflight.com/launches/details/7883,320,1.2,4.05,18.0,7.5,21.88,Success,Electron/Curie ," Live, Laugh, Launch",2025/08/23,Rocket Lab LC-1A Māhia Peninsula New Zealand
+SpaceX,https://nextspaceflight.com/launches/details/7915,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 17-6,2025/08/22,SLC-4E Vandenberg SFB California USA
+SpaceX,https://nextspaceflight.com/launches/details/6149,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , USSF-36 (OTV-8),2025/08/21,LC-39A Kennedy Space Center Florida USA
+VKS RF,https://nextspaceflight.com/launches/details/7923,3800,3.0,2.9,42.7,58.25,308.66,Success,Angara 1.2 , Cosmos 2590-2593 (?),2025/08/21,Site 35/1 Plesetsk Cosmodrome Russia
+Roscosmos,https://nextspaceflight.com/launches/details/4360,8020,4.11,8.36,44.08,20.0,621.78,Success,Soyuz 2.1b , Bion-M n°2,2025/08/20,Site 31/6 Baikonur Cosmodrome Kazakhstan
+CAS Space,https://nextspaceflight.com/launches/details/7920,3500,3.35,10.96,31.0,58.25,305.44,Success,Kinetica 1 , 7 satellites,2025/08/19,Site 130 Jiuquan Satellite Launch Center China
+SpaceX,https://nextspaceflight.com/launches/details/7914,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 17-5,2025/08/18,SLC-4E Vandenberg SFB California USA
+CASC,https://nextspaceflight.com/launches/details/7921,5000,4.2,5.7,50.0,58.25,719.04,Success,Long March 6A , SatNet LEO Group 09,2025/08/17,LC-9A Taiyuan Satellite Launch Center China
+CASC,https://nextspaceflight.com/launches/details/7922,5700,3.8,11.74,46.97,64.68,577.08,Success,Long March 4C , Shiyan 28 B-02,2025/08/17,LC-3 Xichang Satellite Launch Center China
+Landspace,https://nextspaceflight.com/launches/details/7919,6000,3.35,5.0,49.5,58.25,450.99,Failed,ZhuQue-2E , Unknown Payload,2025/08/14,Site 96 Jiuquan Satellite Launch Center China
+SpaceX,https://nextspaceflight.com/launches/details/7912,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 10-20,2025/08/14,SLC-40 Cape Canaveral SFS Florida USA
+SpaceX,https://nextspaceflight.com/launches/details/7907,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 17-4,2025/08/14,SLC-4E Vandenberg SFB California USA
+CASC,https://nextspaceflight.com/launches/details/7918,15000,5.2,20.5,53.66,58.25,1284.71,Success,Long March 5B/YZ-2 , SatNet LEO Group 08,2025/08/13,LC-101 Wenchang Space Launch Site China
+ULA,https://nextspaceflight.com/launches/details/5054,36293,5.4,15.5,61.6,58.25,1529.1,Success,Vulcan VC4S , USSF-106 (NTS-3 & USA-554),2025/08/12,SLC-41 Cape Canaveral SFS Florida USA
+Arianespace,https://nextspaceflight.com/launches/details/2017,14850,5.4,20.0,62.0,88.0,1572.62,Success,Ariane 62 , METOP-SG A1,2025/08/12,ELA-4 Guiana Space Centre French Guiana France
+SpaceX,https://nextspaceflight.com/launches/details/7380,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Project Kuiper (KF-02),2025/08/11,SLC-40 Cape Canaveral SFS Florida USA
+Chinarocket,https://nextspaceflight.com/launches/details/7916,1500,3.35,10.96,31.0,58.25,305.44,Success,Jielong 3 , Geely Constellation Group 04,2025/08/8,Oriental Spaceport Launch Ship (Area 1) China Coastal Waters
+Rocket Lab,https://nextspaceflight.com/launches/details/7769,320,1.2,4.05,18.0,7.5,21.88,Success,Electron/Curie , The Harvest Goddess Thrives,2025/08/5,Rocket Lab LC-1B Māhia Peninsula New Zealand
+CASC,https://nextspaceflight.com/launches/details/7844,12000,3.8,5.2,59.0,58.25,688.79,Success,Long March 12 , SatNet LEO Group 07,2025/08/4,Commercial LC-2 Wenchang Space Launch Site China
+SpaceX,https://nextspaceflight.com/launches/details/7910,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 10-30,2025/08/4,SLC-40 Cape Canaveral SFS Florida USA
+Blue Origin,https://nextspaceflight.com/launches/details/7905,0,0.0,10.96,18.0,58.25,0.0,Success,New Shepard , NS-34,2025/08/3,Launch Site One West Texas Texas USA
+SpaceX,https://nextspaceflight.com/launches/details/6970,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , SpaceX Crew-11,2025/08/1,LC-39A Kennedy Space Center Florida USA
+SpaceX,https://nextspaceflight.com/launches/details/7903,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 ," Starlink Group 13-4, USA 549 & USA 550",2025/07/31,SLC-4E Vandenberg SFB California USA
+ExPace,https://nextspaceflight.com/launches/details/7909,300,1.4,3.4,19.8,5.8,32.22,Success,Kuaizhou 1A , PRSC-S1,2025/07/30,Mobile Launcher Pad Xichang Satellite Launch Center China
+ISRO,https://nextspaceflight.com/launches/details/4085,7500,4.0,7.8,51.7,47.0,682.35,Success,GSLV Mk II , NISAR,2025/07/30,Second Launch Pad Satish Dhawan Space Centre India
+CASC,https://nextspaceflight.com/launches/details/7835,13300,5.2,10.96,50.54,58.25,1150.91,Success,Long March 8A , SatNet LEO Group 06,2025/07/30,Commercial LC-1 Wenchang Space Launch Site China
+SpaceX,https://nextspaceflight.com/launches/details/7906,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 10-29,2025/07/29,SLC-40 Cape Canaveral SFS Florida USA
+Gilmour,https://nextspaceflight.com/launches/details/7504,305,1.5,10.96,25.0,58.25,50.63,Failed,Eris , TestFlight1,2025/07/29,Orbital Launch Pad Bowen Orbital Spaceport Australia
+iSpace,https://nextspaceflight.com/launches/details/7904,300,1.2,2.2,21.0,58.25,24.58,Success,Hyperbola 1 , Kunpeng-03,2025/07/29,Site 95A Jiuquan Satellite Launch Center China
+CASC,https://nextspaceflight.com/launches/details/7908,5000,4.2,5.7,50.0,58.25,719.04,Success,Long March 6A , SatNet LEO Group 05,2025/07/27,LC-9A Taiyuan Satellite Launch Center China
+SpaceX,https://nextspaceflight.com/launches/details/7900,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 17-2,2025/07/27,SLC-4E Vandenberg SFB California USA
+SpaceX,https://nextspaceflight.com/launches/details/7902,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 10-26,2025/07/26,SLC-40 Cape Canaveral SFS Florida USA
+Arianespace,https://nextspaceflight.com/launches/details/7713,2300,3.3,9.0,35.0,58.25,325.01,Success,Vega C , CO3D & MicroCarb,2025/07/25,ELV Guiana Space Centre French Guiana France
+Roscosmos,https://nextspaceflight.com/launches/details/7762,10750,4.11,11.43,46.94,25.0,673.3,Success,Soyuz 2.1b/Fregat-M ," Ionosfera-M n°3, 4",2025/07/25,Site 1S Vostochny Cosmodrome Russia
+SpaceX,https://nextspaceflight.com/launches/details/7721,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , TRACERS & Others,2025/07/23,SLC-4E Vandenberg SFB California USA
+SpaceX,https://nextspaceflight.com/launches/details/4881,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , O3b mPOWER 9 & 10,2025/07/22,SLC-40 Cape Canaveral SFS Florida USA
+SpaceX,https://nextspaceflight.com/launches/details/7899,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 17-3,2025/07/18,SLC-4E Vandenberg SFB California USA
+SpaceX,https://nextspaceflight.com/launches/details/7378,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Project Kuiper (KF-01),2025/07/16,SLC-40 Cape Canaveral SFS Florida USA
+SpaceX,https://nextspaceflight.com/launches/details/7898,31100,5.2,13.0,70.0,69.75,1578.63,Success,Falcon 9 Block 5 , Starlink Group 15-2,2025/07/15,SLC-4E Vandenberg SFB California USA
